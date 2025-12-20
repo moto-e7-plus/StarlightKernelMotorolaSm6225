@@ -5,5 +5,8 @@
 <div align="center">
 
 # KernelSU-Next for SM6225 devices 
+[Releases](https://github.com/CharaDreemurrDT/ksun_kernel_motorola_sm6225/releases/latest) 
+
+Currently, only builds for guam (Moto E7 Plus) are available. Soon, the support will be expanded to other SM6225 devices like guamp (Moto G9 Play), devon (Moto G32), hawao (Moto G42) and rhode (Moto G52).
 </div>
 
