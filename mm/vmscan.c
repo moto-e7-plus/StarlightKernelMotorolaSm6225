@@ -2462,7 +2462,7 @@ static void get_scan_count(struct lruvec *lruvec, struct mem_cgroup *memcg,
 	scan_balance = SCAN_FRACT;
 
 	/*
-	 * With swappiness at 100, anonymous and file have the same priority.
+	 * With swappiness at 200, anonymous and file have the same priority.
 	 * This scanning priority is essentially the inverse of IO cost.
 	 */
 	anon_prio = swappiness;
